@@ -1,0 +1,31 @@
+{
+  "name": "myob-accountright-api",
+  "description": "A Node.JS wrapper for the MYOB AccountRight's API v2.0.",
+  "version": "0.0.1",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "author": {
+    "name": "Aidan Casey",
+    "email": "aidancasey@gmail.com",
+    "url": "http://acaseyblog.wordpress.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidancasey/myob-accountright-api.git"
+  },
+  "homepage": "https://github.com/aidancasey/myob-accountright-api",
+ 
+"dependencies": {
+    "connect": "*",
+    "oauth": "*"
+  },
+
+  "readme": "A Node.JS wrapper for the MYOB AccountRight's API v2.0.",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/aidancasey/myob-accountright-api/issues"
+  }
+
+}
